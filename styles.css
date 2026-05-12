@@ -211,6 +211,17 @@ table {
   color: #dde3f4;
 }
 
+.seo-inline-image {
+  margin: 1rem 0;
+}
+
+.seo-inline-image img {
+  width: 100%;
+  border-radius: 12px;
+  border: 1px solid var(--stroke);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.3);
+}
+
 .seo-wrap ul,
 .seo-wrap ol {
   padding-left: 1.2rem;
